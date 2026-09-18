@@ -1,4 +1,4 @@
-# TikTok API Security Algorithms
+# TikTok API Security Algorithms - Full Reverse
 
 ## Included Algorithms
 
@@ -7,10 +7,8 @@
 - `x-argus`
 - `x-ladon`
 - `x-gorgon`
-
-## Encryption
-
-- **MSSDK (TTEncrypt)** — Encrypt/Decrypt
+- `MSSDK (TTEncrypt)`
+**NOTE: ALL DOES INCLUDE Encrypt/Decrypt SUPPORT**
 
 ## Usage Examples
 
