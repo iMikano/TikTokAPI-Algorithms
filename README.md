@@ -23,7 +23,7 @@
 
 ## Pricing
 
-**Price:** $5,000 USDT *(negotiable)*
+**Price:** $2,500 USDT *(negotiable)*
 
 Only the complete source code is for sale.
 
